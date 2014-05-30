@@ -1,0 +1,4 @@
+name: "Player Counter"
+author: "yawkat"
+depends: ["TabList"]
+main: at.yawk.tablist.examples.playercounter.PlayerCounterBungee

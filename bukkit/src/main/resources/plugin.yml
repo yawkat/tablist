@@ -1,0 +1,5 @@
+name: "TabList"
+author: "yawkat"
+version: "${build.version}"
+depends: ["ProtocolLib"]
+main: at.yawk.tablist.bukkit.BukkitTabListPlugin

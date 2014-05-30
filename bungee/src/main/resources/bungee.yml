@@ -1,0 +1,4 @@
+name: "TabList"
+author: "yawkat"
+version: "${build.version}"
+main: at.yawk.tablist.bungee.BungeeTabListPlugin

@@ -27,8 +27,8 @@
 
     <repositories>
         <repository>
-            <id>md-5</id>
-            <url>http://repo.md-5.net/content/groups/public/</url>
+            <id>yawkat</id>
+            <url>http://mvn.yawk.at/</url>
         </repository>
         <repository>
             <id>comphenix</id>
